@@ -1,5 +1,5 @@
 ### Olá! 👋, eu sou Adryellen
-#### Atualmente sou estudante de Ciência da Computação &#x1F4BB;
+#### Atualmente sou estudante de Ciência da Computação &#x1F4BB;.
 Eu estou no processo de desenvolver as minhas habilidades em programação &#x1F642;. Estou aprendendo e me aprofundando em Linguagem Orientada a Objetos por meio da Linguagem Java &#x2615; . E estou criando habilidades em desenvolvimento web por meio da aprendizagem de JavaScript, HTML e CSS &#x1F4BB;.
 <br>
 
@@ -24,7 +24,7 @@ Eu estou no processo de desenvolver as minhas habilidades em programação &#x1F
  
 
  
- ## Outras redes:
+ ## Outras redes sociais:
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adryellenalves/)
 
