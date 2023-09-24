@@ -1,6 +1,6 @@
 ### Olá! 👋, eu sou Adryellen
 #### Atualmente sou estudante de Ciência da Computação &#x1F4BB;.
-Eu estou no processo de desenvolver as minhas habilidades em programação &#x1F642;. Estou aprendendo e me aprofundando em Linguagem Orientada a Objetos por meio da Linguagem Java &#x2615; . E estou criando habilidades em desenvolvimento web por meio da aprendizagem de JavaScript, HTML e CSS &#x1F4BB;.
+Eu estou no processo de desenvolver as minhas habilidades em programação &#x1F642;. Estou aprendendo e me aprofundando em Linguagem Orientada a Objetos por meio da Linguagem Java &#x2615; . Por meio do estágio em desenvolvimento, estou desenvolvendo habilidades em .Net, Csharp, Api e em MYSQL. No meio tempo tento aprofundar meus conhecimentos de lógica de programação por meio do LeetCode e do Exercism.  &#x1F4BB;.
 <br>
 
 
